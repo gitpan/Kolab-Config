@@ -25,7 +25,7 @@ our @EXPORT = qw(
 	%kolab_config $kolab_prefix
 );
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use IO::File;
 use vars qw(%kolab_config $kolab_prefix);
